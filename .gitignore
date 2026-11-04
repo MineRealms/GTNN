@@ -9,3 +9,4 @@
 /out/
 .bitfun/
 /.bitfun/search/flashgrep-index/
+/.local/
